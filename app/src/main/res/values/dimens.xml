@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_half_padding">8dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="layout_extra_padding">32dp</dimen>
+    <dimen name="git_owner_image_w">90dp</dimen>
+    <dimen name="git_owner_image_h">90dp</dimen>
+    <dimen name="layout_star_h">30dp</dimen>
+</resources>
